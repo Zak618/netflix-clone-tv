@@ -1,4 +1,4 @@
-# My Netflix Clone Project
+# Netflix Clone Project
 
 ![2023-11-01_00-44-59](https://github.com/Zak618/netflix-clone-tv/assets/89405318/3c2c02b6-6629-4ecd-bb55-fd81de27ec1c)
 
