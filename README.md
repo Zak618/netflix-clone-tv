@@ -20,7 +20,7 @@ This project was created with the guidance of the [John Weeks Dev]([https://www.
 
 ## Demo
 <p align="center">
-![netproj](https://github.com/Zak618/netflix-clone-tv/assets/89405318/6704a738-b164-4d34-8c9c-29b0d99d4950)
+  <img src="![netproj](https://github.com/Zak618/netflix-clone-tv/assets/89405318/6704a738-b164-4d34-8c9c-29b0d99d4950)">  
 </p>
 ## Installation and Setup
 
