@@ -19,9 +19,9 @@ This project is a clone of the popular video streaming service Netflix, created 
 This project was created with the guidance of the [John Weeks Dev]([https://www.youtube.com/@johnweeksdev]) YouTube channel.
 
 ## Demo
-<div style="text-align: center;">
+<p align="center">
 ![netproj](https://github.com/Zak618/netflix-clone-tv/assets/89405318/6704a738-b164-4d34-8c9c-29b0d99d4950)
-</div>
+</p>
 ## Installation and Setup
 
 To install and run the project locally, follow these commands:
