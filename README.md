@@ -1,29 +1,40 @@
-# netflix-clone
+# My Netflix Clone Project
 
-This template should help get you started developing with Vue 3 in Vite.
+![2023-11-01_00-44-59](https://github.com/Zak618/netflix-clone-tv/assets/89405318/3c2c02b6-6629-4ecd-bb55-fd81de27ec1c)
 
-## Recommended IDE Setup
+## About the Project
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+This project is a clone of the popular video streaming service Netflix, created using the following technologies and tools:
 
-## Customize configuration
+- **Vue 3**: A powerful JavaScript framework that makes building user interfaces convenient and efficient.
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+- **Vite**: A fast and modern development tool that allows you to create Vue projects quickly and with minimal overhead.
 
-## Project Setup
+- **Tailwind CSS**: A minimalist CSS framework that speeds up the styling process and helps create beautiful user interfaces.
 
-```sh
+- **Pinia**: State management is handled using Pinia, providing clean and straightforward state management.
+
+- **HTML and JavaScript**: Core languages for building the user interface and application logic.
+
+This project was created with the guidance of the [John Weeks Dev]([https://www.youtube.com/@johnweeksdev]) YouTube channel.
+
+## Demo
+
+![netproj](https://github.com/Zak618/netflix-clone-tv/assets/89405318/6704a738-b164-4d34-8c9c-29b0d99d4950)
+
+## Installation and Setup
+
+To install and run the project locally, follow these commands:
+
+```bash
+# Clone the repository
+git clone https://github.com/your-username/netflix-clone.git
+
+# Navigate to the project directory
+cd netflix-clone
+
+# Install dependencies
 npm install
-```
 
-### Compile and Hot-Reload for Development
-
-```sh
+# Run the project
 npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
